@@ -1,0 +1,29 @@
+
+#cs-header-sec{
+    padding: 10px 0;
+}
+#cs-header-sec .cs-logo {
+    max-height: 30px;
+    display: flex;
+    align-items: center;
+}
+#cs-header-sec .cs-logo img{
+    margin-top: 3px;
+}
+#cs-header-sec .cs-logo span {
+    font-size: 24px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+#cs-header-sec .cs-left-sec{
+    text-align: left;
+}
+#cs-header-sec .cs-right-sec{
+    text-align: right;
+}
+
+
+.cs-page-head{
+    height: 500px;
+    background: #6e1919;
+}
